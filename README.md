@@ -1,4 +1,20 @@
-### Hi there 👋
+## Job Status: Searching
+
+#### Currently learning
+- [libp2p](https://libp2p.io/)
+- Rust
+- [DC/OS](https://dcos.io/)
+- [Kubernetes](https://kubernetes.io/) (running in DC/OS)
+
+#### Interests
+- Distributed computing and file sharing
+- Low level protocols (layer 3-5)
+- Cryptography
+
+## Projects
+- Progress Tracker (on hold)
+- Soundboard (planned)
+- CDCN - a voluntary CDN (planned with libp2p)
 
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
