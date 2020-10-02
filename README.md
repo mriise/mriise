@@ -1,9 +1,9 @@
-## Job Status: Searching
+## Job Status: Searching (But busy with school for now)
 
 #### Currently learning
 - [libp2p](https://libp2p.io/)
 - Rust
-- [Kubernetes](https://kubernetes.io/) (running in DC/OS)
+- Linux containers (LXD)
 
 #### Interests
 - Distributed computing and file sharing
@@ -13,7 +13,8 @@
 ## Projects
 - Progress Tracker (on hold)
 - Soundboard (planned)
-- CDCN - a voluntary CDN (planned with libp2p and blake3 hashing/verifying)
+- Binary Time Hash (ongoing implementation in rust)
+- CDCN - a voluntary CDN (needs a lot of work on the protocol side)
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
