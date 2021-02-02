@@ -1,8 +1,9 @@
-## Job Status: Searching (But busy with school for now)
+## Job Status: Searching
 
 #### Currently learning
 - [libp2p](https://libp2p.io/)
 - Rust
+- Threshold Signatures
 - Linux containers (LXD)
 
 #### Interests
@@ -12,9 +13,9 @@
 
 ## Projects
 - Progress Tracker (on hold)
-- Soundboard (planned)
-- Binary Time Hash (ongoing implementation in rust)
-- CDCN - a voluntary CDN (needs a lot of work on the protocol side)
+- Soundboard (on hold)
+- Binary Time Hash (idea needs practical application)
+- CDCN - a voluntary browser-to-browser CDN (needs implementation and alternate signaling methods)
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
