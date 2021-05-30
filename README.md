@@ -2,20 +2,20 @@
 
 #### Currently learning
 - [libp2p](https://libp2p.io/)
-- Rust
+- Rust + C interop
 - Threshold Signatures
-- Linux containers (LXD)
 
 #### Interests
 - Distributed computing and file sharing
 - Low level protocols (layer 3-5)
 - Cryptography
+- Blockchain without global consensus 
 
 ## Projects
 - Progress Tracker (on hold)
-- Soundboard (on hold)
+- Rust Soundboard (dropped)
 - Binary Time Hash (idea needs practical application)
-- CDCN - a voluntary browser-to-browser CDN (needs implementation and alternate signaling methods)
+- CDCN - a voluntary browser-to-browser CDN (needs robust P2P connection over browsers without reliance on TURN)
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
