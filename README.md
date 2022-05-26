@@ -14,7 +14,7 @@
 
 ## Projects
 - 8 kHz Computer Mouse (in progress)
-- Open source Osu! mouse (in progress)
+- Open source Osu! keyboard (in progress)
 - FVM (contributing @ProtocolLabs)
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
