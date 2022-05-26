@@ -14,8 +14,8 @@
 
 ## Projects
 - 8 kHz Computer Mouse (in progress)
-- Framed Varint (needs more practical applications to encourage future work)
-- CDCN - a voluntary browser-to-browser CDN (needs robust P2P connection over browsers without reliance on TURN)
+- Open source Osu! mouse (in progress)
+- FVM (contributing @ProtocolLabs)
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
