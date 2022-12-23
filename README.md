@@ -1,6 +1,4 @@
 #### Currently learning
-- [LPC552x](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc5500-cortex-m33/lpc552x-s2x-mainstream-arm-cortex-m33-based-microcontroller-family:LPC552x-S2x)
-- [RTIC](https://rtic.rs)
 - UWB communication
 - Threshold Signatures
 - Erasure Codes
