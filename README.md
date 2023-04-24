@@ -7,12 +7,18 @@
 - Distributed computing and file sharing
 - Low level protocols (layer 3-5)
 - Cryptography
-- Blockchain without global consensus
-- Embedded systems
+- distributed systems without global state
+- Embedded systems (hardware & firmware)
 
 ## Projects
-- 8 kHz Computer Mouse (in progress)
-- Open source Osu! keyboard (in progress)
+
+### Planning
+- 8 kHz Computer Mouse (started)
+
+### In Progress
+- Open source Osu! keyboard (mostly finished)
+
+### On-Hold / Finished 
 - FVM (Filecoin Virtual Machine) @Protocol Labs
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
