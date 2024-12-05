@@ -1,25 +1,28 @@
 #### Currently learning
-- UWB communication
-- Threshold Signatures
-- Erasure Codes
+- 3d Modeling (Blender)
+- Shaders (Unity HLSL) 
+- PCB and Schematic design
 
 #### Interests
-- Distributed computing and file sharing
 - Low level protocols (layer 3-5)
-- Cryptography
-- distributed systems without global state
+- Distributed systems (computing, file sharing, ect.)
 - Embedded systems (hardware & firmware)
 
-## Projects
+### Current
+- Various props for VRChat
+- Fileshare-wt: simple and quick file-sharing with WebTransport
 
-### Planning
-- 8 kHz Computer Mouse (started)
-
-### In Progress
-- Open source Osu! keyboard (mostly finished)
-
+### Planning (aka TODO)
+- More props for VRChat (they are fun to make)
+- Remake personal site to something statically rendered
+  
 ### On-Hold / Finished 
 - FVM (Filecoin Virtual Machine) @Protocol Labs
+- 8 kHz Computer Mouse (hold)
+- OSU! keypad (hardware finished, firmware on hold)
+
+
+Last updated: 12/5/24
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
