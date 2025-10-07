@@ -21,14 +21,6 @@
 - 8 kHz Computer Mouse (hold)
 - OSU! keypad (hardware finished, firmware on hold)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 Last updated: 12/5/24
 <!--
 **mriise/mriise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
